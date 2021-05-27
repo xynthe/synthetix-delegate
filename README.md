@@ -1,4 +1,4 @@
-# Synthetix.Delegate
+# Xynthe.Delegate
 
 The code for the [Synthetix.Delegatr](https://delegatr.synthetix.io) dApp.
 
